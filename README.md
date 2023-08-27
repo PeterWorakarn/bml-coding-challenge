@@ -3,7 +3,8 @@
 ## Technology
 
 React.js, Tailwind 
-* (bar chart on this site use only CSS to calculate the position of the graph)
+
+(bar chart on this site use only CSS to calculate the position of the graph)
 
 ## Feature:
 
