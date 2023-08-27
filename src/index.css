@@ -1,13 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Bai Jamjuree', sans-serif;
+  @apply text-white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.h1 {
+  @apply text-[28px] font-bold;
+}
+.h2 {
+  @apply text-[24px] font-bold;
+}
+.h3 {
+  @apply text-[18px] font-bold;
+}
+.h4 {
+  @apply text-[16px] font-bold;
+}
+.p {
+  @apply text-[14px] font-normal;
+}
+.ant-picker {
+  font-family: 'Bai Jamjuree', sans-serif;
 }
