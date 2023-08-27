@@ -16,7 +16,7 @@ the position of the graph)
 - User can click link to view reference news.
 - Support both desktop and mobile users.
 
-## Upcoming feature:
+## Upcoming Feature:
 
 - Ability to filter by year range (now can display
   current available year)
