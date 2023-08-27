@@ -2,8 +2,8 @@
 
 ## Technology
 
-React.js, Tailwind (bar chart on this site use
-only CSS to calculate the position of the graph)
+React.js, Tailwind 
+* (bar chart on this site use only CSS to calculate the position of the graph)
 
 ## Feature:
 
@@ -21,4 +21,5 @@ only CSS to calculate the position of the graph)
   district.
 
 [Challenge Link](https://bmlpu.notion.site/Coding-Challenge-Bangkok-Population-Growth-in-B-E-2550-2559-3e2837ed49624c50bddb180eb7bc2bad)
+
 [Figma Link](https://www.figma.com/file/WyPVdukKpA1GhKz3ikVjtY/Bangkok-Population-Growth?node-id=0%3A1&t=gGyjKWsflvVDRrP3-1)
