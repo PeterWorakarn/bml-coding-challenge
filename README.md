@@ -1,10 +1,13 @@
+![Banner](https://raw.githubusercontent.com/PeterWorakarn/bml-coding-challenge/main/screenshot.jpg)
+
 # Coding Challenge: Bangkok Population Growth in B.E. 2550 - 2559
 
 ## Technology
 
-React.js, Tailwind 
+React.js, Tailwind
 
-(bar chart on this site use only CSS to calculate the position of the graph)
+(bar chart on this site use only CSS to calculate
+the position of the graph)
 
 ## Feature:
 
