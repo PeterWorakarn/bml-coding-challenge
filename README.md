@@ -1,6 +1,6 @@
-![Banner](https://raw.githubusercontent.com/PeterWorakarn/bml-coding-challenge/main/screenshot.jpg)
-
 # Coding Challenge: Bangkok Population Growth in B.E. 2550 - 2559
+
+![Banner](https://raw.githubusercontent.com/PeterWorakarn/bml-coding-challenge/master/screenshot.jpg)
 
 ## Technology
 
