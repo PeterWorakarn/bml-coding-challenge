@@ -20,6 +20,5 @@ only CSS to calculate the position of the graph)
   displayed depending on the dataset for that
   district.
 
-[Challenge Link]
-(https://bmlpu.notion.site/Coding-Challenge-Bangkok-Population-Growth-in-B-E-2550-2559-3e2837ed49624c50bddb180eb7bc2bad)
+[Challenge Link](https://bmlpu.notion.site/Coding-Challenge-Bangkok-Population-Growth-in-B-E-2550-2559-3e2837ed49624c50bddb180eb7bc2bad)
 [Figma Link](https://www.figma.com/file/WyPVdukKpA1GhKz3ikVjtY/Bangkok-Population-Growth?node-id=0%3A1&t=gGyjKWsflvVDRrP3-1)
